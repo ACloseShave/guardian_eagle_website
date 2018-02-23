@@ -1,0 +1,26 @@
+nav { margin: 0;
+				padding: 14px 16px;
+				background-color: #16A2FC;
+}
+			
+nav { float: center
+				text-align: center
+}
+			
+nav a { color: black;
+				padding: 14px 16px;
+				text-decoration: none; }
+			
+nav a:hover { background-color: #111;
+				color: white;
+}
+		
+.active { background-color: #4CAF50;
+				color: white;
+}
+			
+.header { float: left
+}
+			
+h1 { text-align: center;
+}
